@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate Full Stack Web Developer from California.</h3>
+<h3 align="center">A passionate Full Stack Web Developer in the Bay Area, CA.</h3>
 
 - 🔭 Currently: **Software Engineer @ 100Devs**
 
