@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate Full Stack Web Developer from California.</h3>
 
-- 🔭 I’m currently a **Software Engineer @ 100Devs**
+- 🔭 Currently: **Software Engineer @ 100Devs**
 
 - 👨‍💻 All of my projects are available at [www.myportfoliosite.com](www.myportfoliosite.com)
 
